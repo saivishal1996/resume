@@ -8,3 +8,10 @@
 
 [Clark University](https://www.clarku.edu/)
 
+## Research Interests
+
+Geospatial Analysis
+
+Remote Sensing
+
+Deep Learning
